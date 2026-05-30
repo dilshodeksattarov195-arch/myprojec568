@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesalculate",
+        "uuid": 3219424,
+        "checksum": "dt4zb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
